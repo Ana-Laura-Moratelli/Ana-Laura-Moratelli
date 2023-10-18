@@ -19,4 +19,4 @@
 </div>
     
 <h2></h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Laura-Moratelli&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Laura-Moratelli&theme=github_dark&layout=compact">
