@@ -15,18 +15,10 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=6DA2FF" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=6DA2FF"/>
     <img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=white&color=6DA2FF"/>
-    
-    
-    
-    
+
 </div>
 <h2>:telephone_receiver: Contatos</h2>
 <div>
   <a href="https://www.linkedin.com/in/anamoratelli/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6DA2FF"></a> 
   <a href="mailto:ana.silva2237@fatec.sp.gov.br"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=6DA2FF"/></a> 
 </div>
-    
-<h2></h2>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Laura-Moratelli&theme=github_dark&layout=compact">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Laura-Moratelli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
