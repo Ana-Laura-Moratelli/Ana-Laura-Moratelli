@@ -1,24 +1,70 @@
-<h1> ✨Bem vindo(a) ao meu perfil✨</h1>
-<h2>:computer: Tecnologias e ferramentas</h2>
+<h1 align="center">✨ Welcome to my GitHub Profile ✨</h1>
 
-<div>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/CSS3-239120?&style=for-the-badge&logo=css3&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white&color=6DA2FF"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-3776AB?style=for-the-badge&logo=TailwindCSS&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=6DA2FF"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/react-4A154B?style=for-the-badge&logo=react&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=6DA2FF" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=6DA2FF"/>
-    <img src="https://img.shields.io/badge/Mysql-000000?style=for-the-badge&logo=mysql&logoColor=white&color=6DA2FF"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=100000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Technologies+%26+Tools" />
+</p>
 
-</div>
-<h2>:telephone_receiver: Contatos</h2>
-<div>
-  <a href="https://www.linkedin.com/in/anamoratelli/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6DA2FF"></a> 
-  <a href="mailto:ana.silva2237@fatec.sp.gov.br"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=6DA2FF"/></a> 
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/><br><sub>HTML5</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/><br><sub>CSS3</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/><br><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/><br><sub>TypeScript</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br><sub>React</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/><br><sub>React Native</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="42"/><br><sub>Expo</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/><br><sub>Next.js</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42"/><br><sub>Vite</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/><br><sub>Tailwind CSS</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/><br><sub>Bootstrap</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/><br><sub>Node.js</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/><br><sub>Express</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/><br><sub>Python</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/><br><sub>FastAPI</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42"/><br><sub>Flask</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="42"/><br><sub>Selenium</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/><br><sub>PostgreSQL</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/><br><sub>MySQL</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/><br><sub>MongoDB</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/><br><sub>Firebase</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42"/><br><sub>Redis</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/datastax/00A9E0" width="42"/><br><sub>Cassandra</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="42"/><br><sub>Prisma</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="42"/><br><sub>Supabase</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/><br><sub>Docker</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/><br><sub>Linux</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/><br><sub>AWS</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/><br><sub>Google Cloud</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="42"/><br><sub>Vercel</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="42"/><br><sub>Cloudflare</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/><br><sub>Figma</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/webflow/4353FF" width="42"/><br><sub>Webflow</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/sanity/EF4434" width="42"/><br><sub>Sanity CMS</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/framer/0055FF" width="42"/><br><sub>Framer Motion</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="42"/><br><sub>Shadcn/UI</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42"/><br><sub>n8n</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/zapier/FF4F00" width="42"/><br><sub>Zapier</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="42"/><br><sub>Postman</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="42"/><br><sub>Swagger</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/graphql/E10098" width="42"/><br><sub>GraphQL</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="42"/><br><sub>JWT</sub></td>
+  </tr>
+</table>
